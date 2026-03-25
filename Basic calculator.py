@@ -1,7 +1,7 @@
 # Basic Calculator Program
 # Performs addition, subtraction, multiplication, and division
 
-import select
+import select 
 def display_menu():
     """Display the calculator menu"""
     print("\n" + "="*40)
